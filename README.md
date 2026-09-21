@@ -1,2 +1,1 @@
-# LCS-access
-Geographic access to LCS and early-stage diagnosis
+This SAS program is for the paper, "Association Between Geographic Access to Lung Cancer Screening and Early-Stage Diagnosis". The data used in this study are available from the National Cancer Instititute's SEER program. We are not allowed to share the raw SEER data and linked Medicaid Analytic eXtracts Personal Summary files.
